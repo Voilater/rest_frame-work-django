@@ -29,8 +29,8 @@ This project is a RESTful API built using Django and Django REST Framework for m
 
 ### Clone the Repository
 ```bash
-git clone <repository-url>
-cd <project-directory>
+git clone https://github.com/Voilater/rest_frame-work-django.git
+cd rest_frame-work-django
 ```
 
 ### Create a Virtual Environment
